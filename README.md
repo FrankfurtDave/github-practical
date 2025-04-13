@@ -12,8 +12,8 @@ You have a chance to hear from people who are not just talking about, but buildi
 
 ---
 ## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+- [The Future in Tech Page](https://frankfurtdave.github.io/github-practical)
+- [Episode Guide](https://frankfurtdave.github.io/github-practical/tfit-episodes)
+- [YouTube Playlist](https://frankfurtdave.github.io/github-practical/tfit-youtube)
+- [Podcast Feed - Audio Only](https://frankfurtdave.github.io/github-practical/tfit-feed-audio)
+- [Episode Newsletter](https://frankfurtdave.github.io/github-practical/tfit-newsletter)

@@ -19,7 +19,7 @@ jobs:
       - name: Run feed generator
         run: python feed.py
       - name: Push repo
-        run: 
+        run: |
           git config user.name FrankfurtDave
           git config user.email yatesd2404@live.de
           git add .
